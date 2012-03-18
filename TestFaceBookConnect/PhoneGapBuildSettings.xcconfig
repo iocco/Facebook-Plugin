@@ -1,0 +1,7 @@
+//
+//  PhoneGap.xcconfig
+//  Chris_Isle_of_Man_2
+//
+
+// Override this to use your project specific PHONEGAPLIB
+PHONEGAPLIB = $(PHONEGAPLIB)
